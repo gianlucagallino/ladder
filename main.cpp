@@ -12,10 +12,6 @@
 
 using namespace std;
 
-//TO DO:
-//  Opcional 2
-// Mas comentarios en .H
-
 int main() {
 
 //Main Variables
